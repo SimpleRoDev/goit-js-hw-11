@@ -2,6 +2,7 @@
 .DS_Store
 .vscode/
 .idea/
+node_modules
 
 # Logs
 logs
@@ -78,7 +79,7 @@ typings/
 .env.test
 
 # parcel-bundler cache (https://parceljs.org/)
-.cache
+.parcel-cache
 
 # Next.js build output
 .next
